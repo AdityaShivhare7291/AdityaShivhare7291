@@ -1,26 +1,98 @@
-<h1 align="center">Hi 👋, I'm Aditya shivare</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- <img src="https://github.com/Maran1947/Maran1947/assets/69248165/5c8cff49-9816-433b-91e8-20638b4bf0ea"/> -->
+<div align="center">
+  <img src="https://github.com/Maran1947/Maran1947/assets/69248165/c8b57b01-3e85-4f9b-ad03-af8c31f77dae"/>
+</div> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasivhare&label=Profile%20views&color=0e75b6&style=flat" alt="adityasivhare" /> </p>
+  
+<!-- <h4 align="center">I am really glad 🤗 to see you here!</h4> -->
 
-<p align="left"> <a href="https://twitter.com/adityashivare" target="blank"><img src="https://img.shields.io/twitter/follow/adityashivare?logo=twitter&style=for-the-badge" alt="adityashivare" /></a> </p>
+<!--
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+-->
 
-- 🌱 I’m currently learning **react js**
-
-- 👨‍💻 All of my projects are available at [linktr.ee/adi](linktr.ee/adi)
-
-- 💬 Ask me about **bootstrap,css**
-
-- 📫 How to reach me **adityashivare7291@gmail.com**
-
-- ⚡ Fun fact **i think i am begineer**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/adityashivare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityashivare" height="30" width="40" /></a>
+## About Me 
+__[ `👨‍💻 Full Stack Developer`, `🎯 Creator of CareerMatrix Chrome Extension`, `✨ Crafting digital wonders` ]__
+ 
+<h3>Things I code with</h3>
+<p align="left">  
+  <img width="90px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f6df1c">
+  <img width="80px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
+  <img width="120px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=659b60">
+  <img width="100px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgfill=659b60">
+  <img width="110px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=material-UI&svgfill=659b60">
+  <br/>
+  <img width="120px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+  <img width="120px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
+    <img width="120px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=cplusplus&svgfill=028dd1">
+  <br/>
+  <img width="100px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
+  <img width="90px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+  <img width="90px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redux&animation=spin&svgfill=15d8fe">  
+  <img width="100px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&animation=spin&svgfill=15d8fe">  
+  <br/>
+  <img width="100px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+  <img width="95px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=659b60">
+  <img width="110px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql&svgfill=659b60">
+  <img width="85px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=f29221">
+  <img width="100px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=ffcd33">
+  <br/>
+  <img width="75px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=f44d27">
+   <img width="90px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=kotlin&svgfill=a236f7">
+  <img width="90px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=android&svgfill=3ddd85">
+   <img width="90px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma&svgfill=5551ff">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3>Open source projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/maran1947/learn_react_js"><b>Learn React JS</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/maran1947/learn_react_js?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/maran1947/learn_react_js?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/maran1947/learn_react_js?style=flat-square&labelColor=343b41"/></td>
+<!--       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/maran1947/learn_react_js?style=flat-square&labelColor=343b41"/></td> -->
+<!--       <td><img alt="Pull Requests" src="https://img.shields.io/github/contributors/maran1947/learn_react_js?style=flat-square&labelColor=343b41"/></td> -->
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Maran1947/Stockify"><b>Ads_Impact</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/maran1947/stockify?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/maran1947/stockify?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/maran1947/stockify?style=flat-square&labelColor=343b41"/></td>
+<!--       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/maran1947/stockify?style=flat-square&labelColor=343b41"/></td> -->
+<!--       <td><img alt="Pull Requests" src="https://img.shields.io/github/contributors/maran1947/Stockify?style=flat-square&labelColor=343b41"/></td> -->
+    </tr>
+  </tbody>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasivhare&" alt="adityasivhare" /></p>
+### Github Stats:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maran1947&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)
+<!-- 
+(![](https://komarev.com/ghpvc/?username=maran1947))  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maran1947&show_icons=true&locale=en&theme=gotham" alt="maran1947" /></p>
+-->
+
+### Random Dev Quote ✍
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
+
+### Connect with me:
+<p>
+ <a href="https://github.com/maran1947" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+ <a href="https://twitter.com/maran_1947" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+ <a href="https://medium.com/@abhishekmaran" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
+
+### Support
+ <!-- <a href="https://www.buymeacoffee.com/abhishekmaran" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a> -->
+ <p align="left">
+  <a href="https://www.buymeacoffee.com/abhishekmaran" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="200">
+  </a>
+</p>
