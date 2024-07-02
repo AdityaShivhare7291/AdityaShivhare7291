@@ -11,7 +11,7 @@
 -->
 
 ## About Me 
-__[ `👨‍💻 Full Stack Developer`, `🎯 Creator of CareerMatrix Chrome Extension`, `✨ Crafting digital wonders` ]__
+__[ `👨‍💻 Full Stack Developer`,  `✨ Crafting digital wonders` ]__
  
 <h3>Things I code with</h3>
 <p align="left">  
